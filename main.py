@@ -16,3 +16,6 @@ def add_items_to_list_var1(list, *items):
 def add_items_to_list_var2(list, *items):
     list = [x for x in items]
     return list
+
+
+end = 1
